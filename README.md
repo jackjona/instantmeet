@@ -20,7 +20,7 @@ The backend is hosted on [Heroku](https://www.heroku.com/) and the frontend at [
 - WebRTC
 
 
-#### Develop Locally
+### Develop Locally
 
 1. ```npm install```
 2.  ``` npm start```
