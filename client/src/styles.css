@@ -1,0 +1,16 @@
+body {
+    background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.01), 
+      rgba(0, 0, 0, 0.01)
+    ),
+    url(https://user-images.githubusercontent.com/65679392/126049030-2e7889f6-a298-4e6b-97c8-971cb4128b00.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
